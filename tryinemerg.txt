@@ -1,1 +1,3 @@
 ipconfig /flushdns
+
+Profile=3746575 PIN=770
